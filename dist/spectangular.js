@@ -12,7 +12,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
 // Load in the NodeJS Babel (ES6) polyfill
 
-require('../../..node_modules/babel/polyfill.js');
+require('../../../node_modules/babel/polyfill.js');
 
 // These are the components that are exposed publicly
 
